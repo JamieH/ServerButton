@@ -1,0 +1,16 @@
+[
+{
+  "modid": "serverbutton",
+  "name": "Server Button Mod",
+  "description": "Adds a join server button to the mainmenu.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "http://jamiehankins.co.uk",
+  "updateUrl": "",
+  "authors": ["JamieH"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
